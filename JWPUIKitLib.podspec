@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'JWPUIKitLib'
-  spec.version      = '1.0.0'
+  spec.version      = '1.0.1'
   spec.summary      = "JWPUIKitLib 使用"
   spec.description  = "JWPUIKitLib description"
   spec.homepage     = 'https://github.com/BiQuujia/JWPPersonLibrary.git'
